@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Second_Peer_2:jar">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="Second_Peer_2.jar">
+      <element id="module-output" name="Second_Peer_2" />
+    </root>
+  </artifact>
+</component>
